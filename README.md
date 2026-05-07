@@ -1,4 +1,4 @@
-##Student Gradebook 🎓
+## Student Gradebook 🎓
 
 A desktop application built with Java Swing that allows teachers to manage and track student grades.
 
